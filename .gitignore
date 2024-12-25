@@ -1,0 +1,8 @@
+# enviroment variable
+.env
+
+# virtual eviroment
+/venv
+
+# personal tools
+‫Cmder.exe.lnk
